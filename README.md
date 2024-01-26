@@ -25,3 +25,5 @@ npm run serve
 ```
 
 This project will run on localhost port 8081
+
+https://github.com/NyomanAdiwinanda/order-app-client/assets/65802394/e151615d-88b5-4290-b6e9-d2cdd7838427
